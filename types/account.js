@@ -1,6 +1,6 @@
 const Account = `
   type Account {
-    _id: ID!
+    id: ID!
     companyName: String!
     services: [Service]
     address: String
