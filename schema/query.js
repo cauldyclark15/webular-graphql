@@ -3,7 +3,7 @@ const RootQuery = `
     services(q: String): [Service]
     service(serviceId: ID!): Service
     accounts(q: String): [Account]
-    account(serviceId: ID!): Account
+    account(accountId: ID!): Account
   }
 `;
 
