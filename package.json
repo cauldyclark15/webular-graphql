@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "webular-graphql",
+  "description": "test for graphql endpoint development",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauldyclark15/webular-graphql.git"
+  },
+  "keywords": [
+    "webular",
+    "graphql",
+    "node",
+    "express"
+  ],
+  "author": "cauldyclark15",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cauldyclark15/webular-graphql/issues"
+  },
+  "homepage": "https://github.com/cauldyclark15/webular-graphql#readme"
+}
